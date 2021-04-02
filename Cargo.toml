@@ -8,4 +8,5 @@ edition = "2018"
 
 [dependencies]
 ab_glyph = "0.2.10"
+glyph_brush_layout = "0.2.1"
 image = "0.23.14"
